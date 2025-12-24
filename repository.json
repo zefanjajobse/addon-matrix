@@ -1,5 +1,5 @@
 {
-  "name": "Home Assistant Community Add-ons",
-  "url": "https://github.com/hassio-addons/addon-matrix",
+  "name": "Matrix addon",
+  "url": "https://github.com/zefanjajobse/addon-matrix",
   "maintainer": "Frenck <frenck@frenck.nl>"
 }
