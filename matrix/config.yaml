@@ -1,6 +1,6 @@
 name: "Matrix"
 description: "Secure and decentralized communication platform"
-version: "1.0.0"
+version: "0.0.5"
 slug: "matrix"
 arch:
   - aarch64
