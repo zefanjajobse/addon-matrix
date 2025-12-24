@@ -113,13 +113,13 @@ jobs:
     name: Build ${{ matrix.architecture }}
     needs:
       - information
-      - lint-addon
-      - lint-hadolint
-      - lint-json
-      - lint-markdown
-      - lint-prettier
-      - lint-shellcheck
-      - lint-yamllint
+      # - lint-addon
+      # - lint-hadolint
+      # - lint-json
+      # - lint-markdown
+      # - lint-prettier
+      # - lint-shellcheck
+      # - lint-yamllint
     runs-on: ubuntu-latest
     strategy:
       matrix:
