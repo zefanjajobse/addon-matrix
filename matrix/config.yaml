@@ -8,5 +8,5 @@ arch:
   - armhf
   - armv7
   - i386
-image: "ghcr.io/hassio-addons/matrix-{arch}"
+image: "ghcr.io/zefanjajobse/matrix-{arch}"
 # ... (vollständig: ingress: true, ports: 8008, options: server_name, etc.)
